@@ -1,7 +1,6 @@
 const btns = document.querySelectorAll(".btn");
 const head = document.querySelector("#winner");
 const reset = document.querySelector(".btnr");
-console.log(btns)
 let p1 = document.querySelector("#player1");
 let c1=0,c2=0;
 let p2 = document.querySelector("#player2");
